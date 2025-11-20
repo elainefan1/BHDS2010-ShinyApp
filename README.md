@@ -1,1 +1,2 @@
 # BHDS2010-ShinyApp
+11/19. Elaine - I've uploaded my EDA stuff to the github, which includes a statistical analysis of the top 1000 rows and most of the variables. Interestingly enough, Gender - Male, Medical Condition - Cancer, and Admission Type - Emergency are the significant variables. I've also uploaded a skeleton for the app, its app.R. This includes code to display a histogram showing the distribution of the billing amount in price, and also a reactive histogram of date of admission with a dropdown bar to select between monthly, quarterly, and yearly.
